@@ -15,7 +15,7 @@
   background: green;
   color: white;
   font-weight: bold;
-} 
+}
 
 .button {
   background-color: rgb(255, 255, 255);
@@ -31,4 +31,27 @@
 div.text {
   color: green;
   font-size: 22px;
+}
+
+/* solution  */
+.para {
+  font-size: 36px;
+}
+
+.small-para {
+  font-size: 22px;
+}
+
+#confirm-button {
+  background: lime;
+  color: white;
+}
+
+div.text {
+  font-size: 36px;
+}
+
+div.child {
+  font-size: 22px;
+  color: red;
 }
